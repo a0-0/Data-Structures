@@ -3,7 +3,7 @@ package Linked_Lists;
  *
  * created by: Ahmed ELsaid A.I.A
  *
- * 04.06.2021
+ * 06.06.2021
  *
  *  the differance between ArrayList && Class && LinkedList
  *
