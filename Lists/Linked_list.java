@@ -92,6 +92,18 @@ class demo {
         addInOrder(placeToVisit, "Samara");
         printLinkedList(placeToVisit);
         visit(placeToVisit);
+        // add in order but more esaly
+//                Collections.sort(countries, new Comparator<String>() {
+//            @Override
+//            public int compare(String o1, String o2) {
+//                return Collator.getInstance().compare(o1, o2);
+//            }
+//        });
+//        printLinkedList(countries);
+//
+
+
+
 //        placeToVisit.add("Sydney");
 //        placeToVisit.add("Melbourne");
 //        placeToVisit.add("Brisbane");
